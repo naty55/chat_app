@@ -1,2 +1,2 @@
 # chat_app
-chat app with server UI 
+chat app with nice web server for UI
